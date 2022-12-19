@@ -41,7 +41,8 @@
 <br />
 
 #### ❤ My projects
-<details><summary>Web Design projects</summary></details>
+<details><summary>Web Design projects</summary> Tools: HTML (5)/CSS(3) , React, Vue , JS, JQuery, PHP </details>
+<details><summary>Business Intelligence projects></summary> Tools: SQL, MDX, SSMS , SSIS , SSAS , SSRS , Power BI</details>
 <details><summary>Project management</summary>
 determine the digraphs of pert and Gant with MS Project</details>
 <details><summary>End of studies project: license</summary>
@@ -53,6 +54,7 @@ I carried out a web project in the IT domain that learns computer graphics
 <details><summary>Advanced algorithm and complexity</summary>
 The objective of this project is to present several classical sorting algorithms. We start by presenting each method in an intuitive way, then we detail an example of the execution of the algorithm as well as its algorithm and finally we give experimental values ​​for each algorithm
 In this document we will study five different sorting methods: Bubble Sorting (Classic and Optimized), Gnome Sorting, Sorting by Radi-Sort, Quick Sort and finally Sort by heap-Sort.</details>
+
 
 
 <br><br><br>
