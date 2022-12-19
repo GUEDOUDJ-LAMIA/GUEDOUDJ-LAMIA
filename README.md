@@ -42,9 +42,9 @@
 
 #### ❤ My projects
 <details><summary>Web Design projects</summary> Tools: HTML (5)/CSS(3) , React, Vue , JS, JQuery, PHP </details>
-<details><summary>Business Intelligence projects></summary> Tools: SQL, MDX, SSMS , SSIS , SSAS , SSRS , Power BI</details>
+<details><summary>Business Intelligence projects </summary> Tools: SQL, MDX, SSMS , SSIS , SSAS , SSRS , Power BI</details>
 <details><summary>Project management</summary>
-determine the digraphs of pert and Gant with MS Project</details>
+determine the digraphs of pert and Gant with MS Project<br> Tools :  MS PROJECT, Bizagi Modeler</details>
 <details><summary>End of studies project: license</summary>
 Meta-heuristic approach for solving the graph coloring problem:
 Application to the problem of positioning containers in a container yard</details>
